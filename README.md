@@ -11,8 +11,7 @@
     </td>
     <td>
       <ul>
-        <li>🧠 Emerging AI Engineer</li>
-        <li>🎓 B.Tech in Artificial Intelligence- Amity University</li>
+        <li>🎓 Emerging AI Engineer</li>
         <li>🔒 Passionate about AI and cybersecurity</li>
         <li>🎨 Skilled in creative content development</li>
         <li>🌟 Dedicated to leveraging AI for impactful solutions</li>
