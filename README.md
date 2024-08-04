@@ -10,15 +10,18 @@
       <img src="https://streak-stats.demolab.com?user=hiyaamalik&theme=neon-palenight" alt="GitHub Streak Stats" height="200"/>
     </td>
     <td>
-      <ul>
+      <img src="https://github-readme-stats.vercel.app/api?username=hiyaamalik&show_icons=true&theme=dracula" alt="GitHub Stats">
+      </td>
+  </tr>
+</table>
+ <p>
+  <ul>
         <li>🎓 Emerging AI Engineer</li>
         <li>🔒 Passionate about AI and cybersecurity</li>
         <li>🎨 Skilled in creative content development</li>
         <li>🌟 Dedicated to leveraging AI for impactful solutions</li>
         <li>🔗 Connect with me on <a href="https://www.linkedin.com/in/hiyaamalik">LinkedIn</a></li>
-      </td>
-  </tr>
-</table>
+</p>
 <!---
 hiyaamalik/hiyaamalik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
