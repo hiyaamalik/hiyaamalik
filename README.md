@@ -10,7 +10,7 @@
       <img src="https://streak-stats.demolab.com?user=hiyaamalik&theme=neon" alt="GitHub Streak Stats" height="200"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hiyaamalik&theme=neon&timestamp=12345" alt="GitHub Stats">
+     <img src="https://github-readme-stats.vercel.app/api?username=hiyaamalik&theme=neon&timestamp={{UNIQUE_TIMESTAMP}}" alt="GitHub Stats">
       </td>
   </tr>
 </table>
